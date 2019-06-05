@@ -1,0 +1,41 @@
+/* add your CSS here */
+
+.panda {
+  width: 320px;
+  border: 1px solid lightgrey;
+  padding: 10px;
+  box-shadow: 10px 10px #eeeeee;
+}
+
+h3 {
+  font: bold 18px "Times New Roman", serif;
+}
+
+ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+img {
+  border-radius: 50px;
+  width: 300px;
+  box-shadow: 8px 8px #B2D3C2;
+}
+
+.about {
+  width: 260px;
+  padding: 20px;
+  border: 1px solid lightgrey;
+  margin-top: 10px;
+  font: 12px "Times New Roman", serif;
+  text-align: justify;
+}
+
+.introduction {
+  font: italic 12px "Times New Roman", serif;
+}
+
+.feature li span {
+  font: bold 12px "Times New Roman", serif;
+}
+COPY TO CLIPBOARD  SELECT ALL
